@@ -63,8 +63,6 @@ function App() {
                 />
                 <div className="placeholder-content">
                   <span className="placeholder-icon"><Code2 size={36} /></span>
-                  <strong>YOUR PHOTO</strong>
-                  <small>Add <code>profile.jpg</code> to <code>/public</code></small>
                 </div>
               </div>
             </div>
